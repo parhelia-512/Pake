@@ -220,6 +220,28 @@ window.addEventListener('DOMContentLoaded', _event => {
       #react-root [data-testid="SideNav_NewTweet_Button"], #react-root [aria-label="Twitter Blue"]{
         display: none;
       }
+      
+      
+
+      .login-copyright > span{
+        display: none; !important;
+      }
+
+      .login-description{
+        display: none; !important;
+      }
+
+      .ant-layout-header.defaultLayout-header > div > span{
+        display: none; !important;
+      }
+
+      .page-footer > span{
+        display: none; !important;
+      }
+
+      .page-footer > a{
+        display: none; !important;
+      }
     }
 
     @media only screen and (min-width: 1265px) {
