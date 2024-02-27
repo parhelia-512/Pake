@@ -1,14 +1,14 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["png/weread_512.png"],
-      "identifier": "com.pake.weread",
+      "icon": ["png/restcloud_512.png"],
+      "identifier": "com.pake.restcloud",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
       "deb": {
         "depends": ["curl", "wget"],
-        "files": {"/usr/share/applications/com-pake-weread.desktop": "assets/com-pake-weread.desktop"}
+        "files": {"/usr/share/applications/com-pake-restcloud.desktop": "assets/com-pake-restcloud.desktop"}
       },
       "externalBin": [],
       "longDescription": "",
