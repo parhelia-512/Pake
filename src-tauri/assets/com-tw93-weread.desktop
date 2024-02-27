@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
 Categories=Office
-Exec=com-pake-weread
-Icon=com-pake-weread
-Name=com-pake-weread
-Name[zh_CN]=微信阅读
+Exec=com-pake-restcloud
+Icon=com-pake-restcloud
+Name=com-pake-restcloud
+Name[zh_CN]=RestCloud
 StartupNotify=true
 Terminal=false
 Type=Application

@@ -1,14 +1,14 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["png/zskj_256.png", "png/zskj_512.png"],
+      "icon": ["png/restcloud_256.ico", "png/restcloud_32.ico"],
       "identifier": "com.pake.restcloud",
       "active": true,
       "category": "DeveloperTool",
       "copyright": "",
       "externalBin": [],
       "longDescription": "",
-      "resources": ["png/zskj_256.png"],
+      "resources": ["png/restcloud_32.ico"],
       "shortDescription": "",
       "targets": ["msi"],
       "windows": {

@@ -244,6 +244,7 @@ window.addEventListener('DOMContentLoaded', _event => {
       }
     }
 
+    
     @media only screen and (min-width: 1265px) {
       #react-root [data-testid="sidebarColumn"] form[role="search"] {
         visibility: visible !important;

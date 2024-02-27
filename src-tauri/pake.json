@@ -1,7 +1,7 @@
 {
   "windows": [
     {
-      "url": "http://111.19.168.149:8333/restcloud/admin/login",
+      "url": "https://clouds.maas.com.cn/restcloud/admin/login",
       "transparent": true,
       "fullscreen": false,
       "width": 1200,
