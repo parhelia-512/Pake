@@ -77,6 +77,12 @@
       "title": "WeRead",
       "name_zh": "微信阅读",
       "url": "https://weread.qq.com/"
+    },
+    {
+      "name": "restcloud",
+      "title": "RestCloud",
+      "name_zh": "RestCloud",
+      "url": "https://clouds.maas.com.cn/restcloud/admin/login"
     }
   ]
 }
