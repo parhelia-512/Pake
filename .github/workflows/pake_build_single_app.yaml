@@ -5,19 +5,19 @@ on:
       name:
         description: 'app name'
         required: true
-        default: 'twitter'
+        default: 'restcloud'
       title:
         description: 'app title'
         required: true
-        default: 'Twitter'
+        default: 'RestCloud'
       name_zh:
         description: 'app name in Chinese'
         required: true
-        default: '推特'
+        default: 'RestCloud'
       url:
         description: 'app url'
         required: true
-        default: 'https://twitter.com/'
+        default: 'https://clouds.maas.com.cn/restcloud/admin/logins'
   workflow_call:
     inputs:
       name:
@@ -39,7 +39,7 @@ on:
         description: 'app url'
         required: true
         type: string
-        default: 'https://twitter.com/'
+        default: 'https://clouds.maas.com.cn/restcloud/admin/login'
 
 jobs:
   build_single_app:
