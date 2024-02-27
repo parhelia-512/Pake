@@ -1,14 +1,14 @@
 {
   "package": {
     "productName": "RestCloud",
-    "version": "1.0.0"
+    "version": "1.1.8"
   },
   "tauri": {
     "security": {
       "csp": null,
       "dangerousRemoteDomainIpcAccess": [
         {
-          "domain": "weread.qq.com",
+          "domain": "rest.cloud.com",
           "windows": ["pake"],
           "enableTauriAPI": true
         }
@@ -18,7 +18,7 @@
       "active": false
     },
     "systemTray": {
-      "iconPath": "png/icon_512.png",
+      "iconPath": "png/zskj_512.png",
       "iconAsTemplate": true
     },
     "allowlist": {
