@@ -1,7 +1,7 @@
 {
   "tauri": {
     "bundle": {
-      "icon": ["icons/restcloud.icns"],
+      "icon": ["icons/weread.icns"],
       "identifier": "com.pake.restcloud",
       "active": true,
       "category": "DeveloperTool",
