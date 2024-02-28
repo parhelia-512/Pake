@@ -10,7 +10,7 @@
       "url_type": "web"
     }
   ],
-  "macos": [
+  "macOS": [
     {
       "url": "https://clouds.maas.com.cn/restcloud/admin/login",
       "transparent": true,
